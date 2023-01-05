@@ -1,2 +1,2 @@
-# [Olivia Lee](https://oliviajylee.github.io "Title").
+# [Olivia Lee](https://oliviajylee.github.io)
 #
