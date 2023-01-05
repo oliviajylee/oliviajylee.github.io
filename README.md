@@ -2,6 +2,6 @@
 
 ***
 
-Hi! I am
-#Olivia Lee
+Hi! I am\n
+#Olivia Lee\n
 Master's Student in Applied Data Analytics
