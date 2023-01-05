@@ -2,6 +2,6 @@
 
 ***
 
-###Hi! I am<br/>
-#Olivia Lee<br/>
-##Master's Student in Applied Data Analytics
+### Hi! I am<br/>
+# Olivia Lee<br/>
+## Master's Student in Applied Data Analytics
