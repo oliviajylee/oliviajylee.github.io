@@ -2250,7 +2250,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
+		margin-right: -1em;
 		padding-left: 0;
 	}
 
