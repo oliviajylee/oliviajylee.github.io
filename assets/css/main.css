@@ -2073,7 +2073,7 @@ input, select, textarea {
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
 				color: #fff;*/
-				content: 'View';
+				content: 'Report';
 				display: inline-block;
 				font-size: 0.8em;
 				font-weight: 400;
@@ -2099,8 +2099,8 @@ input, select, textarea {
 			}
 
 		.image img {
-			/*border-radius: 0.35em;
-			display: block;*/
+			border-radius: 0.35em;
+			display: block;
 		}
 
 		.image.left {
@@ -2124,13 +2124,13 @@ input, select, textarea {
 			}
 
 		.image.fit {
-			display: block;
+			/*display: block;
 			margin: 0 0 2em 0;
-			width: 100%;
+			width: 100%;*/
 		}
 
 			.image.fit img {
-				width: 100%;
+				/*width: 100%;*/
 			}
 
 		.image.avatar {
