@@ -2066,7 +2066,7 @@ input, select, textarea {
 		}
 
 			.image.thumb:after {
-				/*-moz-transition: opacity 0.2s ease-in-out;
+				-moz-transition: opacity 0.2s ease-in-out;
 				-webkit-transition: opacity 0.2s ease-in-out;
 				-ms-transition: opacity 0.2s ease-in-out;
 				transition: opacity 0.2s ease-in-out;
@@ -2099,8 +2099,8 @@ input, select, textarea {
 			}
 
 		.image img {
-			border-radius: 0.35em;
-			display: block;
+			/*border-radius: 0.35em;
+			display: block;*/
 		}
 
 		.image.left {
