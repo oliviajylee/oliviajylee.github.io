@@ -207,7 +207,7 @@ input, select, textarea {
 
 	code {
 		background: #f7f7f7;
-		border-radius: 0.9em;
+		border-radius: 0.35em;
 		border: solid 2px #efefef;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
@@ -2134,7 +2134,7 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 200%;
 		}
 
 			.image.avatar:before {
@@ -2142,8 +2142,8 @@ input, select, textarea {
 			}
 
 			.image.avatar img {
-				border-radius: 100%;
-				width: 100%;
+				border-radius: 200%;
+				width: 200%;
 			}
 
 /* List */
