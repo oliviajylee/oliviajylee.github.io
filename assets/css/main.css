@@ -2250,7 +2250,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-left: -1em;
+		margin-right: -1em;
 		padding-right: 0;
 	}
 
@@ -2265,7 +2265,7 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 100%;
-			margin-left: 0;
+			margin-right: 0;
 		}
 
 			ul.actions.special li:first-child {
@@ -2277,7 +2277,7 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			margin-left: 0;
+			margin-right: 0;
 		}
 
 			ul.actions.stacked li {
