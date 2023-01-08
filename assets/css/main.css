@@ -2051,7 +2051,7 @@ input, select, textarea {
 			transition: opacity 0.2s ease-in-out;
 			background: url("images/overlay.png");
 			border-radius: 0.35em;
-			content: 'View';
+			content: '';
 			display: block;
 			height: 100%;
 			left: 0;
@@ -2072,7 +2072,7 @@ input, select, textarea {
 				transition: opacity 0.2s ease-in-out;
 				border-radius: 0.35em;
 				border: solid 3px rgba(255, 255, 255, 0.5);
-				color: #fff;*/
+				color: #fff;
 				content: 'View';
 				display: inline-block;
 				font-size: 0.8em;
@@ -2145,7 +2145,7 @@ input, select, textarea {
 				position: relative;
 				left: -50px;
 				border-radius: 200%;
-				width: 200%;
+				width: 100%;
 			}
 
 /* List */
@@ -2250,8 +2250,8 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		margin-right: -1em;
-		padding-right: 0;
+		margin-left: -1em;
+		padding-left: 0;
 	}
 
 		ul.actions li {
@@ -2265,7 +2265,7 @@ input, select, textarea {
 			-ms-justify-content: center;
 			justify-content: center;
 			width: 100%;
-			margin-right: 0;
+			margin-left: 0;
 		}
 
 			ul.actions.special li:first-child {
@@ -2277,7 +2277,7 @@ input, select, textarea {
 			-webkit-flex-direction: column;
 			-ms-flex-direction: column;
 			flex-direction: column;
-			margin-right: 0;
+			margin-left: 0;
 		}
 
 			ul.actions.stacked li {
