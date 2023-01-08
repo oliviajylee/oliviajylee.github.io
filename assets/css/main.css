@@ -2051,7 +2051,7 @@ input, select, textarea {
 			transition: opacity 0.2s ease-in-out;
 			background: url("images/overlay.png");
 			border-radius: 0.35em;
-			content: '';
+			content: 'View';
 			display: block;
 			height: 100%;
 			left: 0;
@@ -2124,13 +2124,13 @@ input, select, textarea {
 			}
 
 		.image.fit {
-			/*display: block;
+			display: block;
 			margin: 0 0 2em 0;
-			width: 100%;*/
+			width: 100%;
 		}
 
 			.image.fit img {
-				/*width: 100%;*/
+				width: 100%;
 			}
 
 		.image.avatar {
