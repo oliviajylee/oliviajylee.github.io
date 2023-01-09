@@ -2568,6 +2568,11 @@ input, select, textarea {
 			margin: 0 0 0.5em 0;
 		}
 
+		.work-item h5 {
+			font-size: 1.1em;
+			margin: 0 0 0.5em 0;
+		}
+
 		.work-item p {
 			font-size: 1em;
 			line-height: 1.5em;
